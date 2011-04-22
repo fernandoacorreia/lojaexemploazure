@@ -2,6 +2,8 @@
 
 Exemplo de como desenvolver aplicativos para Windows Azure.
 
+Copyright (C) 2011, Fernando de Alcântara Correia <fernandoacorreia@gmail.com>.
+
 Propósito
 =========
 
