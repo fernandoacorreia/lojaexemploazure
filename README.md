@@ -49,7 +49,7 @@ Arquitetura
 
 O aplicativo possui uma arquitetura modular:
 
-![Arquitetura](doc/Arquitetura.png)
+![Arquitetura](lojaexemploazure/raw/master/doc/Arquitetura.png)
 
 * _Frente de Loja_: Interface web utilizada pelos consumidores finais.
 * _Área administrativa_: Interface web utilizada pelos administradores da loja.
